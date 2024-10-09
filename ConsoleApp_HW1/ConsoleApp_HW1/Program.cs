@@ -12,6 +12,7 @@ namespace ConsoleApp_HW1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Feature branch 1 - development 1");
+            Console.WriteLine("Feature branch 1 - development 2");
         }
     }
 }
