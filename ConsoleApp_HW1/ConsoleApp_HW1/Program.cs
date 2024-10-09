@@ -11,10 +11,7 @@ namespace ConsoleApp_HW1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-<<<<<<< HEAD
             Console.WriteLine("Feature branch 1 - development 1");
-=======
->>>>>>> 1d61ec4 (Revert "Added new line in master for error commit task")
         }
     }
 }
